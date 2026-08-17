@@ -37,5 +37,7 @@ public class ProductInventory {
     // Show the Information of Clorox
     System.out.println("Product Name:" + productName);
     System.out.println("Product Code:" + productCode);
+    System.out.println(stockQuantity);
+    System.out.print(unitPrice);
     }
 }
